@@ -193,4 +193,4 @@ call routing pipeline — not just the AI layer.
 ---
 
 *Built by [Gowravi Pillarisetti](https://www.linkedin.com/in/gowravi-p-146567179)*
-*AI Operations Analyst & Automation Builder · Philadelphia, PA*
+*AI Operations Analyst & Automation Builder *
