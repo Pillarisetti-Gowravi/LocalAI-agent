@@ -1,6 +1,5 @@
 # LocalAI-agent
-Eliminates missed calls for small businesses — AI answers every inbound call, collects booking details naturally, and logs to Airtable in real time. Zero code. Under $10/month.
-
+AI voice receptionist that answers calls books appointments conversationally, and logs bookings automatically — built in 72 hours using Retell AI, ElevenLabs, Twilio, and Make.com. Live demo: +1 267 214 3027
 
 
 # 📞 LocalIQ AI — Voice Receptionist Pipeline
